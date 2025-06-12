@@ -35,9 +35,8 @@ A full-featured **Task Management Desktop Application** built using **Java Swing
 
 ## 📸 Screenshots
 
-> Replace this with an actual screenshot from your GUI app.
+![Screenshot 2025-06-12 124349](https://github.com/user-attachments/assets/007cd71e-10e5-48c5-b99b-894a1f5d188d)
 
-![Screenshot 2023-09-23 175303](https://github.com/user-attachments/assets/93864e6b-a626-4d29-a383-e08ebef320a2)
 
 
 ---
